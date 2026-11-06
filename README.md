@@ -6,4 +6,4 @@
 1. 레포 setting - pages 에서 main을 페이지로 지정
 2. 레포에 *.html 파일 업로드
 3. 깃허브id.github.io/레포명/파일명으로 접속   
-[예](heavyrainseo.github.io/motion/Lrgdsrc.html)
+[예](https://heavyrainseo.github.io/motion/Lrgdsrc.html)
